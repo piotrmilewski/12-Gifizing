@@ -3,6 +3,9 @@ CFLAGS= -g
 LDFLAGS= -lm
 CC= gcc
 
+runo: all
+	./mdl scripto.mdl
+
 run: all
 	./mdl simple_anim.mdl
 

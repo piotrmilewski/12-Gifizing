@@ -1,0 +1,66 @@
+frames 90
+basename loading
+push
+move 250 250 0
+push
+move 0 175 0
+scale 0.5 0.5 0.5 sm0
+sphere 0 0 0 100
+pop
+push
+move 112 134 0
+scale 0.5 0.5 0.5 sm1
+sphere 0 0 0 100
+pop
+push
+move 172 30 0
+scale 0.5 0.5 0.5 sm2
+sphere 0 0 0 100
+pop
+push
+move 152 -88 0
+scale 0.5 0.5 0.5 sm3
+sphere 0 0 0 100
+pop
+push
+move 60 -164 0
+scale 0.5 0.5 0.5 sm4
+sphere 0 0 0 100
+pop
+push
+move -60 -164 0
+scale 0.5 0.5 0.5 sm5
+sphere 0 0 0 100
+pop
+push
+move -152 -88 0
+scale 0.5 0.5 0.5 sm6
+sphere 0 0 0 100
+pop
+push
+move -172 30 0
+scale 0.5 0.5 0.5 sm7
+sphere 0 0 0 100
+pop
+push
+move -112 134 0
+scale 0.5 0.5 0.5 sm8
+sphere 0 0 0 100
+pop
+vary sm0 0 89 0.9 0
+vary sm1 0 9 0.1 0
+vary sm1 10 89 0.9 0.1
+vary sm2 0 19 0.2 0
+vary sm2 20 89 0.9 0.2
+vary sm3 0 29 0.3 0
+vary sm3 30 89 0.9 0.3
+vary sm4 0 39 0.4 0
+vary sm4 40 89 0.9 0.4
+vary sm5 0 49 0.5 0
+vary sm5 50 89 0.9 0.5
+vary sm6 0 59 0.6 0
+vary sm6 60 89 0.9 0.6
+vary sm7 0 69 0.7 0
+vary sm7 70 89 0.9 0.7
+vary sm8 0 79 0.8 0
+vary sm8 80 89 0.9 0.8
